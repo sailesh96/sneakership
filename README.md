@@ -18,5 +18,8 @@ In this project there are 3 screens
    the cross icon and their subtotal and total price will be change accordingly.
 
 #Assumption
+- here tax rate will be 5% of subtotal amount.
 
-- here tax rate will be 5% of subtotal amount. 
+
+APK link is given below:
+https://drive.google.com/file/d/15EUU_ZQBxfkENClUPDKKZYRiYfcDDt1o/view?usp=share_link
