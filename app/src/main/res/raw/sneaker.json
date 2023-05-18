@@ -1,0 +1,572 @@
+[
+  {
+    "id": "1",
+    "brand": "Nike",
+    "colorway": "Blue",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 120,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Nike Air",
+    "title": "Nike Title",
+    "year": 2022
+  },
+  {
+    "id": "2",
+    "brand": "Skecher",
+    "colorway": "Red",
+    "gender": "Female",
+    "size": 8,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 150,
+    "styleId": "123",
+    "shoe": "Skecher",
+    "name": "Skecher Running",
+    "title": "Skecher Title",
+    "year": 2022
+  },
+  {
+    "id": "3",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 9,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "4",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 8,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "5",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "6",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "7",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "8",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "9",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "10",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "11",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "12",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "13",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "14",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "15",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "16",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "17",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "18",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "19",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "20",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "21",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "22",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "23",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "24",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "25",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "26",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "27",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "28",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "29",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  },
+  {
+    "id": "30",
+    "brand": "Adidas",
+    "colorway": "Black",
+    "gender": "Male",
+    "size": 7,
+    "media": {
+      "imageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "smallImageUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg",
+      "thumbUrl": "https://i.ibb.co/pX8SwjV/shoes.jpg"
+    },
+    "releaseDate": "2022-12-15",
+    "retailPrice": 200,
+    "styleId": "123",
+    "shoe": "nike",
+    "name": "Adidas walking",
+    "title": "Adidas Title",
+    "year": 2022
+  }
+]
