@@ -1,11 +1,9 @@
 package com.example.sneakers.product_details
 
-import androidx.lifecycle.LiveData
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.sneakers.SneakerRepository
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class SneakerDetailsViewModel(val repository: SneakerRepository) : ViewModel() {
 

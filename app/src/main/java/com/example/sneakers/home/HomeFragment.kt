@@ -1,4 +1,4 @@
-package com.example.sneakers
+package com.example.sneakers.home
 
 import android.os.Bundle
 import android.text.Editable
@@ -9,14 +9,13 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import androidx.navigation.findNavController
 import androidx.recyclerview.widget.GridLayoutManager
+import com.example.sneakers.ItemClickListener
+import com.example.sneakers.R
+import com.example.sneakers.SneakerModel
+import com.example.sneakers.SneakerRepository
 import com.example.sneakers.databinding.FragmentHomeBinding
-import com.example.sneakers.home.HomeActivity
-import com.example.sneakers.home.HomeViewModel
-import com.example.sneakers.home.HomeViewModelFactory
-import com.example.sneakers.home.SneakerAdapter
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class HomeFragment : Fragment() {
     lateinit var binding: FragmentHomeBinding

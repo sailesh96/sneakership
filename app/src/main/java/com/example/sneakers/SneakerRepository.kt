@@ -1,11 +1,9 @@
 package com.example.sneakers
 
 import android.content.Context
-import androidx.lifecycle.LiveData
-import com.example.sneakers.roomdatabase.Cart
-import com.example.sneakers.roomdatabase.CartDatabase
+import com.example.sneakers.cartdatabase.Cart
+import com.example.sneakers.cartdatabase.CartDatabase
 import com.google.gson.Gson
-import com.google.gson.JsonArray
 import org.json.JSONArray
 import java.io.IOException
 import java.io.InputStream

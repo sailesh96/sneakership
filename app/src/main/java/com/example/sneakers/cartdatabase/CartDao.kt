@@ -1,7 +1,6 @@
-package com.example.sneakers.roomdatabase
+package com.example.sneakers.cartdatabase
 
 import androidx.room.Dao
-import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 

@@ -5,7 +5,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.example.sneakers.SneakerRepository
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class CartViewModel(val repository: SneakerRepository) : ViewModel() {
     val cartLiveData = MutableLiveData<ArrayList<Cart>>()

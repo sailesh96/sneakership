@@ -1,22 +1,19 @@
-package com.example.sneakers
+package com.example.sneakers.product_details
 
 import android.os.Build
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import com.example.sneakers.cart.CartViewModel
-import com.example.sneakers.cart.CartViewModelFactory
+import com.example.sneakers.Constants
+import com.example.sneakers.R
+import com.example.sneakers.SneakerModel
+import com.example.sneakers.SneakerRepository
 import com.example.sneakers.databinding.FragmentSneakerDetailsBinding
 import com.example.sneakers.home.HomeActivity
-import com.example.sneakers.product_details.SneakerColorAdapter
-import com.example.sneakers.product_details.SneakerDetailsViewModel
-import com.example.sneakers.product_details.SneakerDetailsViewModelFactory
-import com.example.sneakers.product_details.SneakerSizeAdapter
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class SneakerDetailsFragment : Fragment() {
 

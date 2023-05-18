@@ -1,14 +1,11 @@
 package com.example.sneakers.home
 
 import android.os.Bundle
-import android.util.Log
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.navigation.findNavController
-import com.example.sneakers.HomeFragment
 import com.example.sneakers.R
-import com.example.sneakers.SneakerRepository
 import com.example.sneakers.databinding.ActivityHomeBinding
 
 class HomeActivity : AppCompatActivity() {

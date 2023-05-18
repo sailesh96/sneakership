@@ -1,23 +1,16 @@
-package com.example.sneakers
+package com.example.sneakers.cart
 
 import android.os.Bundle
-import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
-import androidx.lifecycle.ViewModelStoreOwner
-import com.example.sneakers.cart.CartAdapter
-import com.example.sneakers.cart.CartItemClickListener
-import com.example.sneakers.cart.CartViewModel
-import com.example.sneakers.cart.CartViewModelFactory
+import com.example.sneakers.R
+import com.example.sneakers.SneakerRepository
 import com.example.sneakers.databinding.FragmentCartBinding
 import com.example.sneakers.home.HomeActivity
-import com.example.sneakers.home.HomeViewModel
-import com.example.sneakers.home.HomeViewModelFactory
-import com.example.sneakers.home.SneakerAdapter
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class CartFragment : Fragment() {
 

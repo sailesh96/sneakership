@@ -5,11 +5,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.sneakers.CommonUtils
-import com.example.sneakers.ItemClickListener
 import com.example.sneakers.R
-import com.example.sneakers.SneakerModel
 import com.example.sneakers.databinding.CartItemLayoutBinding
-import com.example.sneakers.roomdatabase.Cart
+import com.example.sneakers.cartdatabase.Cart
 
 class CartAdapter(
     val context: Context, var list: ArrayList<Cart>, val listener: CartItemClickListener
